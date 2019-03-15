@@ -1,2 +1,2 @@
-# alpine-elixir-runtime
-Alpine Linux base image with Elixir, Erlang, Hex, gcc, g++ used to run code in the container for development purposes
+# Elixir runtime on Alpine linux
+This image contains the necessary tools needed to run Elixir code from the container.
